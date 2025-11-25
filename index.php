@@ -24,6 +24,7 @@ $kriteria = $conn->query("SELECT * FROM kriteria ORDER BY id_kriteria")->fetchAl
             <ul>
                 <li><a href="index.php" class="active">Beranda</a></li>
                 <li><a href="hasil.php">Cari Kost</a></li>
+                <li><a href="testing.php">Testing</a></li>
                 <li><a href="admin/">Admin</a></li>
             </ul>
         </div>
